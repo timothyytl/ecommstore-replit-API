@@ -13,4 +13,5 @@ The purpose of this project is to showcase my ability to build a simple full-sta
 The backend development entails building my own API using Python's web framework, Replit, storing the data in the same web framework itself known as ReplitDB, and running Replit as a web server to deliver content to the web application.
 
 Here's the link to the web application: https://timothyytl.github.io/ecommstore-replit-API/
+
 Here's the link to my REPL: https://replit.com/@timothyytl/NewAPIProject#index.js
