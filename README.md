@@ -14,4 +14,3 @@ The backend development entails building my own API using Python's web framework
 
 Here's the link to the web application: https://timothyytl.github.io/ecommstore-replit-API/
 
-Here's the link to my REPL: https://newapiproject.timothyytl.repl.co
